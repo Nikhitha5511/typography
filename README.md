@@ -33,3 +33,7 @@
 * border-bottom: 3px solid rgba(0, 0, 0, 0.7): Adds a 3-pixel solid black border to the bottom of the "main" container.
 * .text, img, p, iframe:These are selectors for various HTML elements. You can use these selectors to apply specific styles to elements of those types.
 * The iframe selector defines styles for iframe elements, setting their width to 100% and height to 280 pixels, while adding some border properties.
+
+
+  # Hosted Link
+  https://nikhitha5511.github.io/typography/?authuser=0
